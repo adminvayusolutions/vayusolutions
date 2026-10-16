@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -1005,7 +1004,5 @@
       <p>&copy; 2026 VaYu Solutions — Where Technology Meets Creativity. All rights reserved. | Patna, Bihar</p>
     </div>
   </footer>
-</body>
-</html>
 </body>
 </html>
